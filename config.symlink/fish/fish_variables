@@ -3,9 +3,9 @@
 SETUVAR --export EDITOR:vim
 SETUVAR ZO_CMD:zo
 SETUVAR Z_CMD:z
-SETUVAR Z_DATA:/Users/cpojer/\x2elocal/share/z/data
-SETUVAR Z_DATA_DIR:/Users/cpojer/\x2elocal/share/z
-SETUVAR Z_EXCLUDE:\x5e/Users/cpojer\x24
+SETUVAR Z_DATA:/Users/ddeath/\x2elocal/share/z/data
+SETUVAR Z_DATA_DIR:/Users/ddeath/\x2elocal/share/z
+SETUVAR Z_EXCLUDE:\x5e/Users/ddeath\x24
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_am:git\x20amend
 SETUVAR _fish_abbr_c:code\x20\x2e
